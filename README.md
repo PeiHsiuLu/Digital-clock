@@ -1,1 +1,1 @@
-This respository is a homework for the course "Web Introduction", and this is the web page for adapted digital clock.  
+這是網際網路概論課程js靜態網頁改編小專題：電子鐘  
